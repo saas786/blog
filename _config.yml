@@ -1,7 +1,6 @@
 # ---------------- #
 #   Main Configs   #
 # ---------------- #
-baseurl: ""
 date_format: "ordinal"
 title: 仓鼠
 subtitle: "仓鼠不爱笑"
