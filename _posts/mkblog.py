@@ -1,5 +1,4 @@
 #!/usr/bin/python
-# -*- coding: UTF-8 -*-
 import time  # 引入time模块
 import sys
 
@@ -13,7 +12,7 @@ with open('./'+filename, 'w') as f:
     f.write("---\n")
     f.write("layout: post\n")
     f.write("title: ")
-    f.write(filename+"\n")
+    f.write(sys.argv[1]+"\n")
     f.write("categories: \n")
     f.write("description: \n")
     f.write("keywords: \n")
