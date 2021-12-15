@@ -12,7 +12,7 @@ repository: loflv/blog
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
-        enabled: true
+        enabled: false
 # 可选组件配置
 components:
     # 分享
@@ -40,9 +40,7 @@ components:
     wiki:
         view: cate
 # 压缩页面内容
-compress_html:
-  clippings: all
-  comments: ["<!--", "-->"]
+
 # 代码高亮风格，支持的 theme 列表见 https://github.com/mzlogin/rouge-themes
 highlight_theme: github
 
