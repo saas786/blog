@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "957354e29ec5fb4e",
+    "type": "split",
+    "children": [
+      {
+        "id": "de76d846df9d6cb3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2021-12-22-jekyll.md",
+            "mode": "source"
+          }
+        },
+        "group": "024c9f07c899a0bb"
+      },
+      {
+        "id": "b14430ffb3c0ed00",
+        "type": "leaf",
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "2021-12-22-jekyll.md",
+            "options": {
+              "collapse-filter": true,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 1,
+              "close": false
+            }
+          }
+        },
+        "group": "024c9f07c899a0bb"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fb814190145b7ee5",
+    "type": "split",
+    "children": [
+      {
+        "id": "01b49599d151be91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d58a7085b00788a8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "560cc838046cae52",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "python",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d9cdd6427cddee15",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 236
+  },
+  "right": {
+    "id": "d75407717d3abf6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a778e107cdfc627b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9da3538454a02293",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2021-12-22-jekyll.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "747f6c304bd908fb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "57ec05d1a2507949",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2021-12-22-jekyll.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "de76d846df9d6cb3",
+  "lastOpenFiles": [
+    "2021-12-22-jekyll.md",
+    "2021-12-22-爬虫的提取.md",
+    "2021-12-22-爬虫基础.md",
+    "2021-12-22-python基础.md",
+    "导航/python.md",
+    "2021-12-22-沟通.md",
+    "2021-12-22-内向的优势.md",
+    "导航/性格.md",
+    "2021-12-22-obsidian.md",
+    "2021-12-22-周立波语录.md"
+  ]
+}
