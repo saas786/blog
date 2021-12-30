@@ -1,7 +1,7 @@
 # ---------------- #
 #   Main Configs   #
 # ---------------- #
-baseurl:
+baseurl: "blog"
 url: ""
 date_format: "ordinal"
 title: 仓鼠

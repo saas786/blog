@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-12-30-jenkins搭建.md",
+            "file": "2021-12-22-jekyll.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hand",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-12-30-jenkins搭建.md",
+                "file": "2021-12-22-jekyll.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-12-30-jenkins搭建.md"
+                "file": "2021-12-22-jekyll.md"
               }
             }
           },
@@ -114,7 +114,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2021-12-30-jenkins搭建.md",
+                "file": "2021-12-22-jekyll.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -153,8 +153,8 @@
   },
   "active": "a017a188512d2675",
   "lastOpenFiles": [
-    "2021-12-30-jenkins搭建.md",
     "2021-12-22-jekyll.md",
+    "2021-12-30-jenkins搭建.md",
     "网页.md",
     "Pasted image 20211230121057.png",
     "2021-12-28-tablayout复习整理.md",
