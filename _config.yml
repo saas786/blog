@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url:
+url: https://loflv.github.io/blog
 date_format: "ordinal"
 title: 仓鼠
 subtitle: "仓鼠不爱笑"
