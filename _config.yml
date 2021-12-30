@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: 
+url: ""
 date_format: "ordinal"
 title: 仓鼠
 subtitle: "仓鼠不爱笑"
@@ -14,7 +14,7 @@ repository: loflv/blog
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
-        enabled: false
+        enabled: true
 # 可选组件配置
 components:
     # 分享
