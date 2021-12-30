@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: blog/
+url: 
 date_format: "ordinal"
 title: 仓鼠
 subtitle: "仓鼠不爱笑"
